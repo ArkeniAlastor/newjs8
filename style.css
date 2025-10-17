@@ -1,0 +1,42 @@
+#Cards {
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+
+#card1 {
+    border: 1px solid black;
+    border-radius: 6px;
+    max-width: 20em;
+}
+
+#card1 div,
+p {
+    border: 1px solid black;
+}
+
+#card2 {
+    border: 1px solid black;
+    border-radius: 6px;
+    max-width: 20em;
+}
+
+#card2 div,
+p {
+    border: 1px solid black;
+}
+
+#card3 {
+    border: 1px solid black;
+    border-radius: 6px;
+    max-width: 20em;
+}
+
+#card3 div,
+p {
+    border: 1px solid black;
+}
+
+img {
+    max-width: 20em;
+}
