@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-around;
     font-weight: bold;
+    text-align: center;
 }
 
 #card1 {
